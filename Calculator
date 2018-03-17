@@ -1,5 +1,5 @@
 import java.util.*;
-public class URCalculator {
+public class Calculator {
 	static convertPostfix conv = new convertPostfix();
 	static String equation= "";
 	static HashMap<String, Double> varible = new HashMap<>();
